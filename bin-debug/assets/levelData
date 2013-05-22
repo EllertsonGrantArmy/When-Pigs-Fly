@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GAME>
+	<LEVEL num="1">
+		<PLATFORMS>10</PLATFORMS>
+		<SPEED>8</SPEED>
+		<TIME>220</TIME>
+	</LEVEL>
+	<LEVEL num="2">
+		<PLATFORMS>16</PLATFORMS>
+		<SPEED>10</SPEED>
+		<TIME>200</TIME>
+	</LEVEL>
+</GAME>

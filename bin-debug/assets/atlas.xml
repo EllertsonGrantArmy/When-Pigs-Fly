@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://texturepacker.com-->
+<!-- $TexturePacker:SmartUpdate:1c1f95cdfb81cde4abfed13a21e2b420$ -->
+<TextureAtlas imagePath="atlas.png">
+    <SubTexture name="appleCoin" x="631" y="599" width="22" height="24"/>
+    <SubTexture name="backBtn" x="546" y="447" width="134" height="47"/>
+    <SubTexture name="barGrass" x="802" y="117" width="200" height="60"/>
+    <SubTexture name="barn" x="536" y="277" width="160" height="168"/>
+    <SubTexture name="bird1" x="419" y="599" width="50" height="61"/>
+    <SubTexture name="bird2" x="471" y="599" width="50" height="61"/>
+    <SubTexture name="calibrateBtn" x="138" y="496" width="134" height="47"/>
+    <SubTexture name="cloud" x="2" y="117" width="300" height="158"/>
+    <SubTexture name="cloudTexture" x="353" y="599" width="64" height="64"/>
+    <SubTexture name="feather" x="637" y="496" width="87" height="26"/>
+    <SubTexture name="gameOver" x="304" y="117" width="250" height="51"/>
+    <SubTexture name="gamePaused" x="2" y="44" width="338" height="65"/>
+    <SubTexture name="header" x="2" y="2" width="500" height="40"/>
+    <SubTexture name="hillsBG" x="599" y="599" width="30" height="400"/>
+    <SubTexture name="homeBtn" x="2" y="496" width="134" height="47"/>
+    <SubTexture name="howToArrow" x="527" y="496" width="108" height="69"/>
+    <SubTexture name="howToBtn" x="274" y="496" width="134" height="47"/>
+    <SubTexture name="howToHeader" x="504" y="2" width="500" height="31"/>
+    <SubTexture name="howToPause" x="287" y="599" width="64" height="26"/>
+    <SubTexture name="howToPlay" x="203" y="277" width="169" height="40"/>
+    <SubTexture name="howToResume" x="153" y="599" width="65" height="26"/>
+    <SubTexture name="levelComplete" x="342" y="44" width="338" height="65"/>
+    <SubTexture name="levelFailed" x="556" y="117" width="244" height="51"/>
+    <SubTexture name="livesHead" x="678" y="599" width="20" height="21"/>
+    <SubTexture name="newGameBtn" x="2" y="447" width="134" height="47"/>
+    <SubTexture name="nextBtn" x="818" y="447" width="134" height="47"/>
+    <SubTexture name="nextLevelBtn" x="274" y="447" width="134" height="47"/>
+    <SubTexture name="pauseText" x="220" y="599" width="65" height="28"/>
+    <SubTexture name="pigSad" x="2" y="599" width="82" height="101"/>
+    <SubTexture name="pigTailLeft" x="894" y="496" width="82" height="101"/>
+    <SubTexture name="pigTailNormal" x="810" y="496" width="82" height="101"/>
+    <SubTexture name="pigTailRight" x="726" y="496" width="82" height="101"/>
+    <SubTexture name="pigWingsUp" x="2" y="277" width="199" height="101"/>
+    <SubTexture name="pigWithWingsDown" x="374" y="277" width="160" height="92"/>
+    <SubTexture name="pigWithWingsUp" x="698" y="277" width="160" height="92"/>
+    <SubTexture name="playBtn" x="682" y="447" width="134" height="47"/>
+    <SubTexture name="readyText" x="410" y="496" width="115" height="100"/>
+    <SubTexture name="resumeBtn" x="410" y="447" width="134" height="47"/>
+    <SubTexture name="resumeText" x="86" y="599" width="65" height="28"/>
+    <SubTexture name="star" x="523" y="599" width="40" height="37"/>
+    <SubTexture name="startBtn" x="138" y="447" width="134" height="47"/>
+    <SubTexture name="texture" x="565" y="599" width="32" height="32"/>
+    <SubTexture name="tryAgainBtn" x="860" y="277" width="134" height="47"/>
+    <SubTexture name="whenPigsFly" x="682" y="44" width="318" height="71"/>
+    <SubTexture name="x" x="655" y="599" width="21" height="22"/>
+</TextureAtlas>
