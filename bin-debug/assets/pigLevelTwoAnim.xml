@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!-- Created with TexturePacker http://texturepacker.com-->
-<!-- $TexturePacker:SmartUpdate:085d22f6ed32d359a697992bafd7fe49$ -->
-<TextureAtlas imagePath="pigLevelTwoAnim.png">
-    <SubTexture name="flyLeft" x="2" y="2" width="82" height="101"/>
-    <SubTexture name="flyNormal" x="86" y="2" width="82" height="101"/>
-    <SubTexture name="flyRight" x="170" y="2" width="82" height="101"/>
-</TextureAtlas>
