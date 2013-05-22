@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<INSTRUCTIONS>
+	<PAGE num="1">
+		<TITLE>Level One</TITLE>
+		<EXPLANATION>You play the role of Hamlett, the pig. Help him escape his sad life at the farm by giving him is wings. Squeezing the sensor will make Hamlett jump. Jump up the floating cloud platforms to escape. </EXPLANATION>
+		<SECONDEXP>Hit the birds that are flying above you and steal their feathers. Obtaining 6 feathers will give Hamlett his wings to fly away and end the level.</SECONDEXP>
+	</PAGE>
+	<PAGE num="2">
+		<TITLE>Level Two</TITLE>
+		<EXPLANATION>Once Hamlett has his wings, help him learn how to use them and through the sky. As he's running on the hills, squeeze the sensor to make him flap his wings.</EXPLANATION>
+		<SECONDEXP>Floating in the sky is his favorite fruit, apples.&#13;Eat 100 apples to win the level.</SECONDEXP>
+	</PAGE>
+	<PAGE num="3">
+		<TITLE>Understanding the Header</TITLE>
+		<EXPLANATION>Score:  Your score is an accumulation of the remaining times at the end of each level.&#13;Time:  This is the time remaining for the current level. After completing a level, this gets added to your total score.</EXPLANATION>
+		<SECONDEXP>This pig head icon represents the number of lives you have remaining. You begin with 5 lives.</SECONDEXP>
+	</PAGE>
+	<PAGE num="4">
+		<TITLE>Let's Play!!</TITLE>
+		<EXPLANATION>And that's it! Pretty simple! Have fun and good luck!!</EXPLANATION>
+	</PAGE>
+</INSTRUCTIONS>
